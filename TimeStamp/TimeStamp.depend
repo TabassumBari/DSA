@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681830078 source:c:\users\barit\onedrive\documents\github\dsa\timestamp\timestamp.cpp
+	"TimeStamp.h"
+	<iostream>
+
+1681830078 c:\users\barit\onedrive\documents\github\dsa\timestamp\timestamp.h
+
