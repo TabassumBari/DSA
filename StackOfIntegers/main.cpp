@@ -1,11 +1,12 @@
 #include <iostream>
 #include"IntegerStack.h"
+#include<stack>
 using namespace std;
 
 
 int main()
 {
- Stack<int> stack1 =new Stack<int>() ;
+ Stack<int> stack1 ;
 
  if(stack1.IsEmpty())
  {
