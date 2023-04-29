@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682748060 source:c:\users\barit\onedrive\documents\github\dsa\parenthesisbalance\parenthesisbalance.cpp
+	"ParenthesisBalance.h"
+
+1682748060 c:\users\barit\onedrive\documents\github\dsa\parenthesisbalance\parenthesisbalance.h
+
+1682749273 source:c:\users\barit\onedrive\documents\github\dsa\parenthesisbalance\main.cpp
+	<iostream>
+	"ParenthesisBalance.h"
+	<stack>
+
