@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
- Stack stack1;
+ Stack<int> stack1 =new Stack<int>() ;
 
  if(stack1.IsEmpty())
  {
