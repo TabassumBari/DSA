@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683350755 source:c:\users\barit\onedrive\documents\github\dsa\binaryqueue\binaryqueue.cpp
+	"BinaryQueue.h"
+
+1683350765 c:\users\barit\onedrive\documents\github\dsa\binaryqueue\binaryqueue.h
+
+1683723808 source:c:\users\barit\onedrive\documents\github\dsa\binaryqueue\main.cpp
+	<iostream>
+	<queue>
+

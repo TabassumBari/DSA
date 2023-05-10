@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="BinaryQueue.cpp" />
+		<Unit filename="BinaryQueue.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
