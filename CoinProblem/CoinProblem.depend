@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683986806 source:c:\users\barit\onedrive\documents\github\dsa\coinproblem\coinmoney.cpp
+	"CoinMoney.h"
+	<iostream>
+
+1683986748 c:\users\barit\onedrive\documents\github\dsa\coinproblem\coinmoney.h
+
