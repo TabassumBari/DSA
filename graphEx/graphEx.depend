@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1686459154 source:c:\users\barit\onedrive\documents\github\dsa\graphex\quetype.cpp
+	"queType.h"
+
+1686457805 c:\users\barit\onedrive\documents\github\dsa\graphex\quetype.h
+
+1686459154 source:c:\users\barit\onedrive\documents\github\dsa\graphex\graphex.cpp
+	<iostream>
+	"graphEx.h"
+	"stackType.cpp"
+	"queType.cpp"
+
+1686459154 c:\users\barit\onedrive\documents\github\dsa\graphex\graphex.h
+	"stackType.h"
+	"queType.h"
+
+1686459297 c:\users\barit\onedrive\documents\github\dsa\graphex\stacktype.h
+
+1686457624 c:\users\barit\onedrive\documents\github\dsa\graphex\stacktype.cpp
+	"stacktype.h"
+
+1686459154 c:\users\barit\onedrive\documents\github\dsa\graphex\quetype.cpp
+	"queType.h"
+
+1686457624 source:c:\users\barit\onedrive\documents\github\dsa\graphex\stacktype.cpp
+	"stacktype.h"
+
